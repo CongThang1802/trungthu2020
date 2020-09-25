@@ -677,10 +677,10 @@ img.aligncenter {
     box-shadow: inset 0 0 0 2px #35465c;
     color: #35465c;
 }
-.nav-contact ul.dt-sc-social-icons li.github a {
+.nav-contact ul.dt-sc-social-icons li.mess a {
     box-shadow: inset 0 0 0 60px #00CED1;
 }
-.nav-contact ul.dt-sc-social-icons li.github a:hover {
+.nav-contact ul.dt-sc-social-icons li.mess a:hover {
     box-shadow: inset 0 0 0 2px #00CED1;
     color: #00CED1
 }
