@@ -13,7 +13,7 @@ var sec;
 /* --------------------------
  * ON DOCUMENT LOAD
  * -------------------------- */
-$(function() {
+$(function CountDown_Time() {
     // Calculate time until launch date
     timeToLaunch();
     // Transition the current countdown from 0 
